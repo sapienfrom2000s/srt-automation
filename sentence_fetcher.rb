@@ -24,6 +24,8 @@ class SentenceFetcher
 			Image.good_captions_pimage
 		when "ggci"
 			Image.good_genericwithcaptions
+		when "ggi"
+			Image.good_generic	
 		when "bgi"
 			Image.bad_generic
 		when "gev"
