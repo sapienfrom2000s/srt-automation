@@ -30,6 +30,8 @@ class SentenceFetcher
 			Image.bad_generic
 		when "gev"
 			Video.good_editing
+		when "ggpv"
+			Video.good_generic_product
 		when "bgv"
 			Video.bad_graphics
 		when "bev"
