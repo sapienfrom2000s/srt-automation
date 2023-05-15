@@ -34,6 +34,8 @@ class SentenceFetcher
 			Video.bad_graphics
 		when "bev"
 			Video.bad_editing
+		when "ggv"
+			Video.good_generic
 		when "gc"
 			Conclusion.good
 		when "bc"
