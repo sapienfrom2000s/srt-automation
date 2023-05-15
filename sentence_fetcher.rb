@@ -28,6 +28,8 @@ class SentenceFetcher
 			Image.good_generic	
 		when "bgi"
 			Image.bad_generic
+		when "bei"
+			Image.bad_editing
 		when "gev"
 			Video.good_editing
 		when "ggpv"

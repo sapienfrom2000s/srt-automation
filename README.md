@@ -14,11 +14,15 @@ Image:
 	good generic pimage - ggpi
 	good generic cap pi - gcpi
 	good generic cap    - ggci
+	good generic        - ggi
 	bad generic         - bgi
+	bad editing         - bei
 
 Video:
 
 	good editing - gev
+	good generic - ggv
+	good gprduct - ggpv
 	bad graphics - bgv
 	bad editing  - bev
 

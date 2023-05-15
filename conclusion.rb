@@ -21,7 +21,7 @@ class Conclusion
       "This advertisement might resonate with the target audience and generate interest.",
       "Viewers might be interested in exploring more about the product advertised.",
       "Potential customers might find the ad interesting and worth sharing with others.",
-      "The ad could potentially generate a positive response from the target audience."
+      "The ad could potentially generate a positive response from the target audience.",
       "It's possible that users will find the ad compelling.",
       "The ad may be appealing to users.",
       "The ad has potential to capture users' attention.",
@@ -38,7 +38,7 @@ class Conclusion
       "The ad seems to have the potential to be engaging.",
       "Users may find the ad to be intriguing for various reasons.",
       "The ad has some interesting aspects that could appeal to users.",
-      "It's possible that the ad will be perceived as interesting by its intended audience.",
+      "It's possible that the ad will be perceived as interesting by its intended audience."
     ]
   end
   
@@ -64,7 +64,7 @@ class Conclusion
       "Some users may not be intrigued by this ad.",
       "This advertisement may not be everyone's favorite.",
       "Not everyone may enjoy this ad.",
-      "People may not like the ad."
+      "People may not like the ad.",
       "The ad may not be very engaging for users.",
       "Users may not find the ad to be very interesting.",
       "It's possible that users may not be interested in the ad.",

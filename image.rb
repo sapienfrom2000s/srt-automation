@@ -155,9 +155,43 @@ class Image
       "The image is unbalanced and doesn't have a clear focal point.",
       "The image looks outdated and uninteresting.",
       "The image lacks depth and doesn't engage the viewer.",
-      "The image appears to be a low-quality stock photo.",
-      "The image is too simplistic and doesn't offer anything unique or captivating."
-    ]
+      "The image appears to be a low-quality stock photo."
+  ]
+  end
+
+  def self.bad_editing
+  [
+      "The image is too simplistic and doesn't offer anything unique or captivating.",
+      "The image appears to have been edited unprofessionally, resulting in unnatural colors and lighting.",
+      "It's clear that the editing on this image was poorly executed, as the proportions look distorted and unrealistic.",
+      "The editing done on this image seems amateurish, with visible signs of pixelation and blurriness.",
+      "The image shows signs of sloppy editing, with noticeable patches and inconsistent shadows.",
+      "It's evident that the editing on this image was done carelessly, resulting in a loss of detail and clarity.",
+      "The image has been edited in a way that lacks finesse, giving it an unpolished and unprofessional appearance.",
+      "The editing on this image appears to be rushed, as there are obvious flaws and inconsistencies.",
+      "It seems like the editor did not pay attention to detail, as the image exhibits sloppy and unrefined edits.",
+      "The image has been edited poorly, with evident errors and a lack of attention to visual coherence.",
+      "The editing on this image is subpar, with noticeable artifacts and distortions.",
+      "It's clear that the editing was not executed with precision, as the image appears unnatural and poorly blended.",
+      "The image has been subjected to inadequate editing, resulting in visible imperfections and unnatural elements.",
+      "The edits made to this image are lacking finesse and attention to detail, making it appear poorly edited.",
+      "It seems like the editor was not skilled enough, as the image shows evident signs of careless editing.",
+      "The image has been edited with little regard for maintaining a cohesive and realistic look.",
+      "The editing on this image is unconvincing, with noticeable discrepancies and a lack of visual harmony.",
+      "It's apparent that the editor did not possess the necessary expertise, as the image displays evident flaws and inconsistencies.",
+      "The image has been edited in a way that compromises its overall quality, with visible distortions and inaccuracies.",
+      "The editing on this image lacks professionalism, as it exhibits visible errors and a lack of refinement.",
+      "It's clear that the editor lacked the necessary skills, as the image appears poorly edited and unpolished.",
+      "The image has undergone inadequate editing, resulting in an unappealing and unprofessional final result.",
+      "The editing done on this image appears rushed and careless, with evident shortcomings and lack of attention to detail.",
+      "It seems like the editor did not possess a good understanding of image editing techniques, as the flaws are apparent.",
+      "The image has been edited in a way that compromises its overall visual integrity, with noticeable inconsistencies and inaccuracies.",
+      "The editing on this image is visibly flawed, with evident mistakes and a lack of attention to fine details.",
+      "It's clear that the editing was not executed with finesse, as the image exhibits visible signs of hasty and unrefined edits.",
+      "The image has been subjected to substandard editing, resulting in an unnatural and unpolished appearance.",
+      "The edits made to this image lack professionalism, with noticeable discrepancies and a lack of visual cohesion.",
+      "It seems like the editor lacked the necessary expertise and attention to detail, as the image shows visible flaws and inconsistencies."
+  ]
   end
 
 end
