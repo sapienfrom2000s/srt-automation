@@ -172,7 +172,7 @@ class Image
       "The image lacks balance and fails to establish a clear focal point.",
       "The image has an outdated and uninteresting appearance.",
       "The image lacks depth and fails to captivate the viewer.",
-      "The image seems to be a low-quality stock photograph.",,
+      "The image seems to be a low-quality stock photograph.",
       "The image lacks artistic merit and fails to evoke any emotions.",
       "The composition of the image is haphazard and lacks visual coherence.",
       "The image is mundane and fails to leave a lasting impression.",

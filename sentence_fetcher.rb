@@ -2,6 +2,7 @@ require_relative 'conclusion'
 require_relative 'description'
 require_relative 'image'
 require_relative 'video'
+require_relative 'special_case'
 
 class SentenceFetcher
 	def fetch(type_identifier)
@@ -43,7 +44,9 @@ class SentenceFetcher
 		when "gc"
 			Conclusion.good
 		when "bc"
-			Conclusion.bad			
+			Conclusion.bad
+		when "misleading"
+			Special.misleading
 		else 
 			raise "check docs"
 		end
