@@ -17,6 +17,7 @@ Image:
 	good generic        - ggi
 	bad generic         - bgi
 	bad editing         - bei
+    good editing        - gei
 
 Video:
 

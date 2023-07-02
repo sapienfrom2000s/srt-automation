@@ -29,6 +29,8 @@ class SentenceFetcher
 			Image.good_generic	
 		when "bgi"
 			Image.bad_generic
+		when "gei"
+			Image.good_editing
 		when "bei"
 			Image.bad_editing
 		when "gev"

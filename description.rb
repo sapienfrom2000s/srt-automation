@@ -61,7 +61,7 @@ class Description
 			"The description is a testament to the writer's ability to paint a picture with words, leaving a lasting impression on the reader.",
 			"The author's use of descriptive language is so vivid, the reader can almost smell, taste, and feel the subject.",
 			"The description is a work of art, each sentence crafted with care and precision.",
-			"The writer's ability to capture the essence of the subject through their writing is truly remarkable."
+			"The writer's ability to capture the essence of the subject through their writing is truly remarkable."	
 		]
 	end
 
