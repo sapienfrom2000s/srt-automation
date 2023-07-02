@@ -8,6 +8,7 @@ Description:
 	bad short    - bsd
 	bad absent   - bad
 	bad emojis   - bed
+    bad generic  - bgi
 
 Image:
 
