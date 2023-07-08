@@ -9,7 +9,9 @@ def main
 	end
 end
 
-paragraph = main
-puts paragraph
-File.write('/tmp/u99.txt', paragraph)
-exec("xclip -sel clip < /tmp/u99.txt")
+loop do
+  paragraph = main
+  puts paragraph
+  File.write('/tmp/u99.txt', paragraph)
+  system("xclip -sel clip < /tmp/u99.txt")
+end
